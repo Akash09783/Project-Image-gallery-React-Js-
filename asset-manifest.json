@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ItzAkash01/Project-Image-gallery-React-Js-/static/css/main.298edda9.css",
+    "main.js": "/ItzAkash01/Project-Image-gallery-React-Js-/static/js/main.508423dc.js",
+    "index.html": "/ItzAkash01/Project-Image-gallery-React-Js-/index.html",
+    "main.298edda9.css.map": "/ItzAkash01/Project-Image-gallery-React-Js-/static/css/main.298edda9.css.map",
+    "main.508423dc.js.map": "/ItzAkash01/Project-Image-gallery-React-Js-/static/js/main.508423dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298edda9.css",
+    "static/js/main.508423dc.js"
+  ]
+}
